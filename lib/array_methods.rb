@@ -1,23 +1,27 @@
-def using_include(array, element)
+def array=["leo","tay","max"]
+  array.include?("max")
 
 end
 
-def using_sort(array)
+def array2=["world","planet","moon",]
+  array2.sort
 
 end
 
-def using_reverse(array)
+def array3=["egg","fish","bread"]
+  array3.reverse
 
 end
 
-def using_first(array)
+def array4=["blue","red","green"]
+  array4.first
 
 end
 
-def using_last(array)
+def array4.last
 
 end
 
-def using_size(array)
+def array4.size
 
 end
